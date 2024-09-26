@@ -4,6 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ttgokhankaya/) 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ttgokhankaya)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/gokhankaya)
 
 👨‍💻 **Senior Software Engineer** with a passion for solving complex problems through elegant code. I’ve spent over a decade improving systems, mentoring teams, and continuously learning new technologies. I believe that **progress is not about perfection**, but about constant, unstoppable growth.
 
